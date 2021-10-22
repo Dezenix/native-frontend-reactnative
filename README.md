@@ -1,6 +1,6 @@
 <h1 align="center">Native Frontend Reactnative</h1>
 
-![frontned reactnative](https://user-images.githubusercontent.com/64855541/138314739-57050cfd-8e98-4d71-9891-074a28464023.png)
+![6](https://user-images.githubusercontent.com/79747022/138428477-8d9d82af-d063-4255-b76e-4202ba452eb7.png)
 
 <div align="center">
 
@@ -17,7 +17,8 @@
 <a href="https://github.com/Dezenix/native-frontend-reactnative/pulls"><img src="https://img.shields.io/github/issues-pr/Dezenix/native-frontend-reactnative?color=brightgreen"></a>
 <a href="https://github.com/Dezenix/native-frontend-reactnative/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/Dezenix/native-frontend-reactnative?color=0059b3"></a>
 <!-- <a href="https://github.com/Dezenix/native-frontend-reactnative/issues"><img src="https://img.shields.io/github/issues/Dezenix/native-frontend-reactnative?color=0059b3"></a> -->
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
 </div>
 
 ## ⚒️ Contribution Guidelines
