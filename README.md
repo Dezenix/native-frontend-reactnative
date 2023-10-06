@@ -1,6 +1,6 @@
 <h1 align="center">Native Frontend Reactnative</h1>
 
-![6](https://user-images.githubusercontent.com/79747022/151584884-9a01c9b7-1988-4a83-8782-6e6c7c115e15.png)
+
 
 <div align="center">
 
@@ -48,5 +48,4 @@ Please note that Open Source Design has a [Contributor Code of Conduct](https://
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE) © Dezenix
 
-![t](https://user-images.githubusercontent.com/79747022/151584912-f2eb465b-d44a-487f-96d1-9570685bfcc8.png)
 
